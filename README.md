@@ -14,7 +14,7 @@ I am a web developer. I focus on building web applications and android applicati
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Habinezajanvier.Habinezajanvier)
+![](https://komarev.com/ghpvc/?username=Habinezajanvier&color=green)
 
 #### Github Stats
 
