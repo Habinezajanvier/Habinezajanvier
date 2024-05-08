@@ -12,10 +12,6 @@ I am a web developer. I focus on building web applications and android applicati
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Dart Badge](https://img.shields.io/badge/-DART-blue?style=for-the-badge&labelColor=black&logo=dart&logoColor=blue)](#) [![Flutter Badge](https://img.shields.io/badge/-FLUTTER-blue?style=for-the-badge&labelColor=black&logo=flutter&logoColor=blue)](#) [![Python Badge](https://img.shields.io/badge/-Python-FED84A?style=for-the-badge&labelColor=black&logo=python&logoColor=FED84A)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-007acc?style=for-the-badge&labelColor=black&logo=docker&logoColor=007acc)](#)
 
-#### Profile Visits
-
-![](https://komarev.com/ghpvc/?username=Habinezajanvier&color=green)
-
 #### Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Habinezajanvier&show_icons=true&theme=tokyonight&rank_icon=github)
